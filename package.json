@@ -4,13 +4,23 @@
   "author": "Pierre Chabiland <pierre@casusludi.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrpierrot/phaser-lowrez.git"
+    "url": "git+https://github.com/mrpierrot/phaser-lowrez.git"
   },
   "license": "GPL-3.0",
-  "dependencies": {
-
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "A phaser plugin for pixel art games",
+  "bugs": {
+    "url": "https://github.com/mrpierrot/phaser-lowrez/issues"
   },
-  "devDependencies": {
-
-  }
+  "homepage": "https://github.com/mrpierrot/phaser-lowrez#readme",
+  "main": "LowRez.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser",
+    "lowrez",
+    "pixelart"
+  ]
 }
